@@ -5,16 +5,16 @@
 
 alert("Bravo, tu as relié ton fichier HTML avec JS 🎉");
 
-// ? Premier exercice : 
+// ? Premier exercice :
 // Créé ci-dessous une variable avec le mot clé const. Le nom de cette variable doit être yourFirstname.
 // La valeur de cette variable sera ton prénom.
 
-
+const yourFirstname = "Nicolas";
 
 // ? Deuxième exercice :
-// Créé ci-dessous une variable avec le mot clé const, dont le nom doit être yourLastname, et dont la valeur sera ton prénom.
+// Créé ci-dessous une variable avec le mot clé const, dont le nom doit être yourLastname, et dont la valeur sera ton nom de famille.
 
-
+const yourLastname = "Michel";
 
 // ? Troisième exercice :
 // Tu vas devoir injecter ta variable yourFirstname dans l'alert présente ci-dessous :
@@ -35,10 +35,12 @@ alert();
 
 // ? Sixième exercice :
 // L'alerte ci-dessous doit faire apparaitre la longueur de ton prénom.
-// ! A noter : tu ne dois pas compter et mettre un chiffre. 
+// ! A noter : tu ne dois pas compter et mettre un chiffre.
 // ! Tu vas devoir utiliser une méthode applicable aux chaînes de caractères permettant de connaître la longueur d'un mot 😉
 
-alert("Longueur de mon prénom : ", /* remplace ce commentaire par la ligne de code attendue */);
+alert(
+  "Longueur de mon prénom : " /* remplace ce commentaire par la ligne de code attendue */
+);
 
 // ? Septième exercice :
 // Créé ci-dessous une instruction conditionnelle (if / else). Tu vas devoir comparer la longueur de ton prénom et de ton nom.
