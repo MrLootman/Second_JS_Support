@@ -38,15 +38,15 @@ alert();
 // ! A noter : tu ne dois pas compter et mettre un chiffre. 
 // ! Tu vas devoir utiliser une méthode applicable aux chaînes de caractères permettant de connaître la longueur d'un mot 😉
 
-alert("Longueur de mon prénom : ", /* supprime ce commentaire et rajoute la ligne attendue) */);
+alert("Longueur de mon prénom : ", /* remplace ce commentaire par la ligne de code attendue */);
 
 // ? Septième exercice :
-// Créé ci-dessous une instruction conditionnelle (if / else).
-// Tu vas devoir comparer la longueur de ton prénom et de ton nom.
+// Créé ci-dessous une instruction conditionnelle (if / else). Tu vas devoir comparer la longueur de ton prénom et de ton nom.
 
 // Si le prénom est plus long que le nom, renvoie une alerte disant "Ton prénom est plus grand que ton nom !"
 // Si le nom est plus grand que le prénom, renvoie une alerte disant "Ton nom est plus grand que ton prénom !"
 // Si le prénom et le nom sont de même longueur, renvoie "Ton prénom et ton nom sont de même longueur !".
 
 // ? Huitième exercice (🥵) :
-// Tu vas devoir boucler sur ton prénom, et compter le nombre de fois où la lettre "a" apparaît.
+// Tu vas devoir boucler sur chaque lettre de ton prénom, et compter le nombre de fois où la lettre "a" apparaît.
+// Juste après ta boucle, créé une alerte donnant le nombre de 'a' dans ton prénom !
