@@ -6,4 +6,4 @@
 
 **Ton objectif** : faire en sorte que le bouton déclenche un prompt JavaScript. Ce prompt te servira à renseigner un message de bienvenue qui remplacera le message présent !
 
-Si tu veux aller plus loin, tu vas devoir également remplacer l'emoji l'affichage par celui de ton choix !
+Si tu veux aller plus loin, tu vas également tenter de remplacer l'emoji à l'affichage par celui de ton choix ! 😉
