@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Winky+Sans:ital,wght@0,300..900;1,300..900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Winky+Sans:ital,wght@0,300..900;1,300..900&display=swap");
 
 * {
   box-sizing: border-box;
@@ -6,7 +6,11 @@
 
 body {
   margin: 0;
-  background: linear-gradient(90deg, hsla(12, 84%, 68%, 1) 0%, hsla(343, 100%, 66%, 1) 100%);;
+  background: linear-gradient(
+    90deg,
+    hsla(12, 84%, 68%, 1) 0%,
+    hsla(343, 100%, 66%, 1) 100%
+  );
 }
 
 main {
@@ -15,7 +19,19 @@ main {
   place-items: center;
 }
 
-h1 {
+h1,
+button {
   font-family: "Winky Sans", sans-serif;
+}
+
+h1 {
   font-size: 4rem;
+}
+
+button {
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  background: transparent;
+  border-radius: 16px;
+  font-size: 2rem;
 }
